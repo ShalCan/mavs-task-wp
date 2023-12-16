@@ -26,7 +26,7 @@ mixin
   }
 }
 .topContents_title {
-  font-size: 22px;
+  font-size: 28px;
 }
 @media only screen and (max-width:769px) {
   .topContents_title {
